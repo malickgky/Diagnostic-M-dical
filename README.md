@@ -47,7 +47,7 @@ project/
 ```bash
 cd backend
 cp .env.example .env
-# Éditer .env : ajouter OPENAI_API_KEY=sk-...
+#  Edite .env : ajouter OPENAI_API_KEY=sk-...
 
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
