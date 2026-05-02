@@ -1,6 +1,6 @@
 # ClinicalOrient — Système d'Orientation Clinique Préliminaire
 
-> ⚠️ **Projet académique uniquement. Ce système ne remplace pas une consultation médicale.**
+
 
 Application multi-agents basée sur LangGraph simulant un workflow d'orientation clinique préliminaire.
 
